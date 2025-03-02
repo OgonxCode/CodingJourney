@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\lec8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DC5365-C41A-435D-9B48-FFC40E75CC3F}|lec8\\lec8.vcxproj|C:\\Users\\ariya\\source\\repos\\lec8\\lec8\\funcs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DC5365-C41A-435D-9B48-FFC40E75CC3F}|lec8\\lec8.vcxproj|solutionrelative:lec8\\funcs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funcs.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\lec8\\lec8\\funcs.cpp",
+              "RelativeDocumentMoniker": "lec8\\funcs.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\lec8\\lec8\\funcs.cpp",
+              "RelativeToolTip": "lec8\\funcs.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T20:09:29.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

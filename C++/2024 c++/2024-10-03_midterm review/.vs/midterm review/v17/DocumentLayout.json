@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\midterm review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0055FF22-AFDB-4CB2-A88C-C72CBA06F334}|midterm review\\midterm review.vcxproj|C:\\Users\\ariya\\source\\repos\\midterm review\\midterm review\\review.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0055FF22-AFDB-4CB2-A88C-C72CBA06F334}|midterm review\\midterm review.vcxproj|solutionrelative:midterm review\\review.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "review.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\midterm review\\midterm review\\review.cpp",
+              "RelativeDocumentMoniker": "midterm review\\review.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\midterm review\\midterm review\\review.cpp",
+              "RelativeToolTip": "midterm review\\review.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T00:40:26.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

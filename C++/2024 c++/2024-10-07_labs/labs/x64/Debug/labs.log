@@ -1,0 +1,4 @@
+﻿  lab5.cpp
+C:\Users\ariya\OneDrive\Desktop\lab5.cpp(147,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ariya\OneDrive\Desktop\lab5.cpp(150,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  labs.vcxproj -> C:\Users\ariya\source\repos\labs\x64\Debug\labs.exe

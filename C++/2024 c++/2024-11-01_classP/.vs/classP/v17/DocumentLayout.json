@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\classP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3780B9A7-BB7C-48F3-BE07-244F05E99946}|classP\\classP.vcxproj|C:\\Users\\ariya\\source\\repos\\classP\\classP\\cppclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3780B9A7-BB7C-48F3-BE07-244F05E99946}|classP\\classP.vcxproj|solutionrelative:classP\\cppclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cppclass.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\classP\\classP\\cppclass.cpp",
+              "RelativeDocumentMoniker": "classP\\cppclass.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\classP\\classP\\cppclass.cpp",
+              "RelativeToolTip": "classP\\cppclass.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T01:54:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

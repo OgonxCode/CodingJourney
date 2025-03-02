@@ -1,0 +1,4 @@
+﻿  loopprac.cpp
+loopprac.obj : error LNK2005: main already defined in conditionControl.obj
+primeFile.obj : error LNK2005: main already defined in conditionControl.obj
+C:\Users\ariya\source\repos\cpprac\x64\Debug\cpprac.exe : fatal error LNK1169: one or more multiply defined symbols found

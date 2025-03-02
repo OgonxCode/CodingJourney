@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\testrev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89411CB1-84F4-4B3A-93DF-CAF72BA2778F}|testrev\\testrev.vcxproj|C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89411CB1-84F4-4B3A-93DF-CAF72BA2778F}|testrev\\testrev.vcxproj|solutionrelative:testrev\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411CB1-84F4-4B3A-93DF-CAF72BA2778F}|testrev\\testrev.vcxproj|C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\cheat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89411CB1-84F4-4B3A-93DF-CAF72BA2778F}|testrev\\testrev.vcxproj|solutionrelative:testrev\\cheat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411CB1-84F4-4B3A-93DF-CAF72BA2778F}|testrev\\testrev.vcxproj|C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89411CB1-84F4-4B3A-93DF-CAF72BA2778F}|testrev\\testrev.vcxproj|solutionrelative:testrev\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cheat.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\cheat.cpp",
+              "RelativeDocumentMoniker": "testrev\\cheat.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\cheat.cpp",
+              "RelativeToolTip": "testrev\\cheat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T21:04:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calc.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\calc.cpp",
+              "RelativeDocumentMoniker": "testrev\\calc.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\calc.cpp",
+              "RelativeToolTip": "testrev\\calc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T21:04:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\FileName.cpp",
+              "RelativeDocumentMoniker": "testrev\\FileName.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\testrev\\testrev\\FileName.cpp",
+              "RelativeToolTip": "testrev\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T21:03:00.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

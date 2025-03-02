@@ -1,0 +1,4 @@
+[2023-01-01 12:15:00] [INFO] Application started.
+[2023-01-01 12:20:00] [WARNING] Memory usage high.
+[2023-01-01 12:30:00] [ERROR] Critical error: Database connection lost.
+[2023-01-01 12:45:00] [INFO] Application stopped.

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\seminar1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE0BFBC-1DA7-4D75-83FE-58FD1D6B1A90}|seminar1\\seminar1.vcxproj|C:\\Users\\ariya\\source\\repos\\seminar1\\seminar1\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AE0BFBC-1DA7-4D75-83FE-58FD1D6B1A90}|seminar1\\seminar1.vcxproj|solutionrelative:seminar1\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab6.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\seminar1\\seminar1\\lab6.cpp",
+              "RelativeDocumentMoniker": "seminar1\\lab6.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\seminar1\\seminar1\\lab6.cpp",
+              "RelativeToolTip": "seminar1\\lab6.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T22:10:45.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

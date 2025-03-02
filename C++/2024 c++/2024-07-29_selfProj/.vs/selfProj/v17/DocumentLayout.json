@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\selfProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B0DD8-49A2-489F-82F5-D6BFA7937AA5}|selfProj\\selfProj.vcxproj|C:\\Users\\ariya\\source\\repos\\selfProj\\selfProj\\point2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C09B0DD8-49A2-489F-82F5-D6BFA7937AA5}|selfProj\\selfProj.vcxproj|solutionrelative:selfProj\\point2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "point2.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\selfProj\\selfProj\\point2.cpp",
+              "RelativeDocumentMoniker": "selfProj\\point2.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\selfProj\\selfProj\\point2.cpp",
+              "RelativeToolTip": "selfProj\\point2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T22:08:07.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

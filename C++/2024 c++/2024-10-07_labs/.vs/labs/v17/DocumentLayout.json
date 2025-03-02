@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF89BB7-F678-4A3A-9560-6F8CBE7D1953}|labs\\labs.vcxproj|C:\\Users\\ariya\\OneDrive\\Desktop\\lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab5.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\OneDrive\\Desktop\\lab5.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\lab5.cpp",
+              "ToolTip": "C:\\Users\\ariya\\OneDrive\\Desktop\\lab5.cpp",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\lab5.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAIQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T22:14:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

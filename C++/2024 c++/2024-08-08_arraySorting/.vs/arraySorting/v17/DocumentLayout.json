@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\arraySorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8782DAA2-4775-46AC-959F-3E604BD78058}|arraySorting\\arraySorting.vcxproj|C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\replaceOdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8782DAA2-4775-46AC-959F-3E604BD78058}|arraySorting\\arraySorting.vcxproj|solutionrelative:arraySorting\\replaceOdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8782DAA2-4775-46AC-959F-3E604BD78058}|arraySorting\\arraySorting.vcxproj|C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\overloadingTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8782DAA2-4775-46AC-959F-3E604BD78058}|arraySorting\\arraySorting.vcxproj|solutionrelative:arraySorting\\overloadingTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8782DAA2-4775-46AC-959F-3E604BD78058}|arraySorting\\arraySorting.vcxproj|C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8782DAA2-4775-46AC-959F-3E604BD78058}|arraySorting\\arraySorting.vcxproj|solutionrelative:arraySorting\\bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "replaceOdd.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\replaceOdd.cpp",
+              "RelativeDocumentMoniker": "arraySorting\\replaceOdd.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\replaceOdd.cpp",
+              "RelativeToolTip": "arraySorting\\replaceOdd.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T04:34:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "overloadingTest.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\overloadingTest.cpp",
+              "RelativeDocumentMoniker": "arraySorting\\overloadingTest.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\overloadingTest.cpp",
+              "RelativeToolTip": "arraySorting\\overloadingTest.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T03:50:32.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bubble.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\bubble.cpp",
+              "RelativeDocumentMoniker": "arraySorting\\bubble.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\arraySorting\\arraySorting\\bubble.cpp",
+              "RelativeToolTip": "arraySorting\\bubble.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T01:01:51.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

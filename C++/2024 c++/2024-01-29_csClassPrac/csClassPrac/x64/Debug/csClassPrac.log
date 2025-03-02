@@ -1,0 +1,3 @@
+﻿  ifElse.cpp
+C:\Users\ariya\source\repos\csClassPrac\csClassPrac\ifElse.cpp(8,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  csClassPrac.vcxproj -> C:\Users\ariya\source\repos\csClassPrac\x64\Debug\csClassPrac.exe

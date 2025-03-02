@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\finlab15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA054C3-6EEB-4BFB-814B-35C3DB30D5EE}|finlab15\\finlab15.vcxproj|C:\\Users\\ariya\\source\\repos\\finlab15\\finlab15\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AA054C3-6EEB-4BFB-814B-35C3DB30D5EE}|finlab15\\finlab15.vcxproj|solutionrelative:finlab15\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q1.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\finlab15\\finlab15\\q1.cpp",
+              "RelativeDocumentMoniker": "finlab15\\q1.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\finlab15\\finlab15\\q1.cpp",
+              "RelativeToolTip": "finlab15\\q1.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:45:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

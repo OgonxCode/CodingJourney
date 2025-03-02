@@ -1,0 +1,7 @@
+﻿  firstp1.cpp
+C:\Users\ariya\source\repos\practice\practice\firstp1.cpp(16,21): error C2563: mismatch in formal parameter list
+C:\Users\ariya\source\repos\practice\practice\firstp1.cpp(16,21): error C2568: ',': unable to resolve function overload
+  C:\Users\ariya\source\repos\practice\practice\firstp1.cpp(16,21):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+C:\Users\ariya\source\repos\practice\practice\firstp1.cpp(25,3): error C2143: syntax error: missing ';' before 'while'

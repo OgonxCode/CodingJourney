@@ -1,0 +1,1 @@
+[{'Product': 'gang', 'stock': '40', 'Price': [2]}, {'Product': 'mob', 'stock': '3', 'Price': [2]}, {'Product': 'gucci', 'stock': '3', 'Price': [2]}]

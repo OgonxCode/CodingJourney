@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariya\\source\\repos\\chekr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62DD9A-6B9C-4DA4-9173-340B5A108889}|chekr\\chekr.vcxproj|C:\\Users\\ariya\\source\\repos\\chekr\\chekr\\SSN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D62DD9A-6B9C-4DA4-9173-340B5A108889}|chekr\\chekr.vcxproj|solutionrelative:chekr\\SSN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62DD9A-6B9C-4DA4-9173-340B5A108889}|chekr\\chekr.vcxproj|C:\\Users\\ariya\\source\\repos\\chekr\\chekr\\isConsecutive5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D62DD9A-6B9C-4DA4-9173-340B5A108889}|chekr\\chekr.vcxproj|solutionrelative:chekr\\isConsecutive5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SSN.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\chekr\\chekr\\SSN.cpp",
+              "RelativeDocumentMoniker": "chekr\\SSN.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\chekr\\chekr\\SSN.cpp",
+              "RelativeToolTip": "chekr\\SSN.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T06:33:35.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "isConsecutive5.cpp",
+              "DocumentMoniker": "C:\\Users\\ariya\\source\\repos\\chekr\\chekr\\isConsecutive5.cpp",
+              "RelativeDocumentMoniker": "chekr\\isConsecutive5.cpp",
+              "ToolTip": "C:\\Users\\ariya\\source\\repos\\chekr\\chekr\\isConsecutive5.cpp",
+              "RelativeToolTip": "chekr\\isConsecutive5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T06:28:55.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

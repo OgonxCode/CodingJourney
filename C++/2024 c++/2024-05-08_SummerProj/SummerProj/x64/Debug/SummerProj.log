@@ -1,0 +1,4 @@
+﻿  randoms.cpp
+C:\Users\ariya\source\repos\SummerProj\SummerProj\randoms.cpp(10,2): error C2146: syntax error: missing ')' before identifier 'randFloat'
+C:\Users\ariya\source\repos\SummerProj\SummerProj\randoms.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ariya\source\repos\SummerProj\SummerProj\randoms.cpp(10,2): error C2146: syntax error: missing ';' before identifier 'randFloat'

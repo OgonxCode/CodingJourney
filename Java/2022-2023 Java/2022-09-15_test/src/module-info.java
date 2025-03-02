@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ariya
+ *
+ */
+module test {
+}
